@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    >
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/idCardViewAllNews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:checkable="true"
+        android:clickable="true"
+        android:focusable="true"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="4dp"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp">
+
+
+            <TextView
+                android:id="@+id/idTextViewIdAllUserData"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Id : 1"
+                android:textSize="20sp"
+                android:paddingBottom="4dp"
+                android:fontFamily="sans-serif-medium"
+                android:textColor="#333"
+                />
+
+            <TextView
+                android:id="@+id/idTextViewNameAllUserData"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="4dp"
+                android:text="Name : Gautam"
+                android:textColor="#333"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:id="@+id/idTextViewEmailAllUserData"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Email : gautamhelange025@gmail.com"
+                android:textColor="#333"
+                android:textSize="18sp"/>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

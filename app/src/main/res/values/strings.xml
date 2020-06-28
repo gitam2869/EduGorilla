@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EduGorilla</string>
+
+    <string name="appnamebold"><b>EduGorilla</b></string>
+
+    <string name="stringOfCreateAnAccount"><u>Create An Account</u></string>
+    <string name="stringOfGoToLogin"><u>Go To Login</u></string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19851300007",
+    "firebase_url": "https://edugorilla-a6f66.firebaseio.com",
+    "project_id": "edugorilla-a6f66",
+    "storage_bucket": "edugorilla-a6f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19851300007:android:824b6b70b0f0a3f75bdf82",
+        "android_client_info": {
+          "package_name": "com.example.edugorilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19851300007-l0l7patuif7n702fcb320nq2cm2lg5a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edugorilla",
+            "certificate_hash": "d07621f15b3b164c3b7e3635d06ca6b23082cd23"
+          }
+        },
+        {
+          "client_id": "19851300007-mh5h30v67qh1tu27vfngsb23lqvabtcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCm_09xwqEyNi_noeshApupS1WuZa9Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19851300007-mh5h30v67qh1tu27vfngsb23lqvabtcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
